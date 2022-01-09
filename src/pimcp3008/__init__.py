@@ -1,1 +1,1 @@
-from pimpc3008.pimpc3008 import *
+from pimcp3008.pimcp3008 import *

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pimcp3008
-Version: 1.0.0
+Version: 1.0.1
 Summary: To use MCP3008 with pigpio.
 Home-page: https://github.com/Langur/pimcp3008
 Author: Akihisa ONODA
